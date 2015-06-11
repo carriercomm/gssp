@@ -11,7 +11,7 @@ Licensed under no-whining MIT
 
 Example:
 
-<script src="http://example.com/gssp/filter.php?key=abcdefgh8765432mInUbYvTr&sheet=1&cols=1&forcecache=1&cb=process"></script>
+&lt;script src="http://example.com/gssp/filter.php?key=abcdefgh8765432mInUbYvTr&sheet=1&cols=1&forcecache=1&cb=process"></script>
 
 means:
 
